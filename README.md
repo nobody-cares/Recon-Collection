@@ -16,4 +16,3 @@ https://chromewebstore.google.com/detail/hidden-eye/gonabakinkhgeojpnkhhholbjpaj
 https://addons.mozilla.org/en-US/firefox/addon/temp-mail/
 https://chromewebstore.google.com/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo
 
-<img width="646" height="216" alt="image" src="https://github.com/user-attachments/assets/893d398e-c73e-41d2-92e6-2ded1fab857b" />
